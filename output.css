@@ -42,6 +42,8 @@ body .wrapper .card-component .bold {
   position: relative;
   margin: 1rem 0;
   z-index: 100;
+  font-size: 20px;
+  font-weight: bold;
 }
 body .wrapper .card-component .review {
   color: hsl(216, 27%, 71%);
